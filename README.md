@@ -1,5 +1,6 @@
 # <div align="center">JIJO DANIEL</div>
 
+
 <div align="center">
   <p>📧 Email: `jijodaniel95@gmail.com`</p>
   <a href="https://www.linkedin.com/in/jijo-daniel/">
