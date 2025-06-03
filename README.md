@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Location-Toronto,%20ON-4285F4?style=for-the-badge&logo=google-maps" alt="Location"/>
 </div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Java+%7C+Spring+Boot+%7C+Golang+Expert;Cloud+Native+%7C+GCP+%7C+Kubernetes;5%2B+Years+of+Experience" alt="Typing SVG" />
 </div>
