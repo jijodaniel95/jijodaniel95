@@ -1,11 +1,12 @@
 # <div align="center">JIJO DANIEL</div>
 
 <div align="center">
+  <p>📧 Email: `jijodaniel95@gmail.com`</p>
   <a href="https://www.linkedin.com/in/jijo-daniel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:jijodaniel95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-jijodaniel95@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Toronto,%20ON-4285F4?style=for-the-badge&logo=google-maps" alt="Location"/>
 </div>
@@ -29,11 +30,59 @@ Senior Java Developer with **5.3 years** of comprehensive experience across the 
   <h3>Core Languages & Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white" alt="J2EE"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
   </p>
-  
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>📊 Project Management & Collaboration</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Agile-FF4F8B?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
+    <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🔨 Build Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+   
+  </p>
+</div>
+
+<div align="center">
+  <h3>🌐 Web & Application Servers</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
+    <img src="https://img.shields.io/badge/Apache_TomEE-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Apache TomEE"/>
+    <img src="https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="WebLogic"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🔨 Build Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+   
+  </p>
+</div>
+
+<div align="center">
   <h3>Cloud & DevOps</h3>
   <p>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
@@ -50,61 +99,74 @@ Senior Java Developer with **5.3 years** of comprehensive experience across the 
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
   </p>
   <p>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  </p>
+
+</div>
+
+<div align="center">
+  <h3>📝 Version Control Systems</h3>
+  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN"/>
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🧪 Testing & API Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/SoapUI-FFCD00?style=for-the-badge&logo=soap&logoColor=black" alt="SoapUI"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+    <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge" alt="Mockito"/>
+    <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   </p>
+</div>
+
+<div align="center">
+  <h3>🛠️ IDEs & Development Environment</h3>
   <p>
-    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+    <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Tool Suite"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </p>
 </div>
 
 <div align="center">
   <h3>🔥 Skill Proficiency 🔥</h3>
-</div>
-
-<div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=java&logoColor=white" alt="Java Development"/>
+    <img src="https://img.shields.io/badge/Backend_Development-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Backend Development"/>
+    <img src="https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=micro:bit&logoColor=white" alt="Microservices"/>
+    <img src="https://img.shields.io/badge/System_Design-FF6C37?style=for-the-badge&logo=systemd&logoColor=white" alt="System Design"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-    <img src="https://img.shields.io/badge/SOAP-4D4D4D?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
-    <img src="https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=micro:bit&logoColor=white" alt="Microservices"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native"/>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-    <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
-    <img src="https://img.shields.io/badge/Apache_TomEE-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Apache TomEE"/>
-    <img src="https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="WebLogic"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/System_Design-FF6C37?style=for-the-badge&logo=systemd&logoColor=white" alt="System Design"/>
     <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
   </p>
-</div>
-
-<div align="center">
-  <h3>📊 Weekly Development Breakdown 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jijodaniel95&layout=compact&theme=github_dark" width="70%" />
+  <p>
+    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+    <img src="https://img.shields.io/badge/SOAP_APIs-4D4D4D?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
+    <img src="https://img.shields.io/badge/API_Design-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="API Design"/>
+  </p>
 </div>
 
 <div align="center">
@@ -175,9 +237,16 @@ Senior Java Developer with **5.3 years** of comprehensive experience across the 
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:jijodaniel95@gmail.com"><img src="https://img.shields.io/badge/Email-jijodaniel95@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jijo-daniel/"><img src="https://img.shields.io/badge/LinkedIn-Jijo%20Daniel-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your_instagram_handle_here"><img src="https://img.shields.io/badge/Instagram-@your_handle-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  📧 Email: `jijodaniel95@gmail.com`
+</p>
+
+<p align="left">
+  <a href="mailto:jijodaniel95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jijodaniel95@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jijo-daniel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jijo%20Daniel-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
