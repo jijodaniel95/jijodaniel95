@@ -1,22 +1,128 @@
-<h1 align="center">Hi 👋, I'm Jijo Daniel</h1>
-<h3 align="center">Senior Software Developer | Backend Specialist | Cloud Practitioner</h3>
+# <div align="center">JIJO DANIEL</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+Spring+Boot+%7C+Golang+%7C+GCP+%7C+Kubernetes;Scalable+Microservices+Architectures;DevOps+%7C+API+Engineering+%7C+Cloud+Native;Always+Learning+%26+Building&center=true&width=600&height=45" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jijo-daniel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jijodaniel95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Toronto,%20ON-4285F4?style=for-the-badge&logo=google-maps" alt="Location"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Java+%7C+Spring+Boot+%7C+Golang+Expert;Cloud+Native+%7C+GCP+%7C+Kubernetes;5%2B+Years+of+Experience" alt="Typing SVG" />
+</div>
+
+## 💫 About Me
+
+Senior Java Developer with **5.3 years** of comprehensive experience across the software development lifecycle. Specialized in building scalable, high-performance applications using Spring Boot and Core Java. Dual degree holder in Computer Applications (BCA & MCA), bringing strong academic foundation to deliver reliable technical solutions.
+
+- 🔭 Currently working on cloud-native development and microservices architecture
+- 🌱 Expertise in Java, Golang, and Google Cloud Platform
+- 💼 Open to Backend Developer opportunities in Toronto
+- 📫 Reach me at: jijodaniel95@gmail.com
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <h3>Core Languages & Frameworks</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  </p>
+  
+  <h3>Cloud & DevOps</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </p>
+
+  <h3>Databases & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🔥 Skill Proficiency 🔥</h3>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=java&logoColor=white" alt="Java Development"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+    <img src="https://img.shields.io/badge/SOAP-4D4D4D?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
+    <img src="https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=micro:bit&logoColor=white" alt="Microservices"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
+    <img src="https://img.shields.io/badge/Apache_TomEE-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Apache TomEE"/>
+    <img src="https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="WebLogic"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/System_Design-FF6C37?style=for-the-badge&logo=systemd&logoColor=white" alt="System Design"/>
+    <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>📊 Weekly Development Breakdown 📊</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jijodaniel95&layout=compact&theme=github_dark" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jijodaniel95&theme=darkhub&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 I’m a **Senior Software Developer** with **5.3 years of experience** designing, building, and deploying scalable backend systems using Java and Golang.
+🚀 I'm a **Senior Software Developer** with **5.3 years of experience** designing, building, and deploying scalable backend systems using Java and Golang.
 
 💡 I specialize in:
 - RESTful API development
 - Microservices architecture
 - Cloud-native deployment on **GCP (Google Cloud Platform)** with **Kubernetes**
 
-🏆 I’ve consistently delivered 100% of projects on time, contributed to RFP-based project extensions, and maintained high-quality standards (under 2% defect rate).
+🏆 I've consistently delivered 100% of projects on time, contributed to RFP-based project extensions, and maintained high-quality standards (under 2% defect rate).
 
 📍 Based in **Toronto, ON**, open to Backend Developer or Business Systems Analyst opportunities.
 
@@ -76,4 +182,4 @@
 
 ---
 
-<p align="center"><em>“Clean code. Resilient systems. Continuous improvement.”</em></p>
+<p align="center"><em>"Clean code. Resilient systems. Continuous improvement."</em></p>
