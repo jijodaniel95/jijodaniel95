@@ -208,7 +208,7 @@ Senior Java Developer with **5.3 years** of comprehensive experience across the 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijodaniel95&layout=compact&theme=github_dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijodaniel95&layout=donut-vertical" width="47%" />
 </p>
 
 ---
