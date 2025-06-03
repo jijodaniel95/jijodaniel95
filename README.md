@@ -204,7 +204,7 @@ Senior Java Developer with **5.3 years** of comprehensive experience across the 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jijodaniel95&show_icons=true&theme=github_dark&count_private=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=jijodaniel95&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=jijodaniel95&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="35%" />
 </p>
 
 <p align="center">
