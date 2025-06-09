@@ -14,12 +14,12 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Java+%7C+Spring+Boot+%7C+Golang+Expert;Cloud+Native+%7C+GCP+%7C+Kubernetes;5%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Java+%7C+Spring+Boot+%7C+Golang+Expert;Cloud+Native+%7C+GCP+%7C+Kubernetes;6%2B+Years+of+Experience" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-Senior Java Developer with **5.3 years** of comprehensive experience across the software development lifecycle. Specialized in building scalable, high-performance applications using Spring Boot and Core Java. Dual degree holder in Computer Applications (BCA & MCA), bringing strong academic foundation to deliver reliable technical solutions.
+Senior Java Developer with **6 years** of comprehensive experience across the software development lifecycle. Specialized in building scalable, high-performance applications using Spring Boot and Core Java. Dual degree holder in Computer Applications (BCA & MCA), bringing strong academic foundation to deliver reliable technical solutions.
 
 - 🔭 Currently working on cloud-native development and microservices architecture
 - 🌱 Expertise in Java, Golang, and Google Cloud Platform
